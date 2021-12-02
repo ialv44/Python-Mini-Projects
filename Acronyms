@@ -1,1 +1,13 @@
-Create Acronyms using Python
+#Create Acronyms using Python
+#Write a python program that generates a short form of a word from a given sentence
+#Method: splitting and indexing to get the first word and then combine it.
+#.upper() is for upper case format
+
+#Code:
+
+user_input = str(input("Enter a Phrase: "))
+text = user_input.split()
+a = " "
+for i in text:
+    a = a+str(i[0]).upper()
+print(a)
