@@ -6,6 +6,7 @@
 
 #Code
 #Multiple Inputs with Python using While Loop
+#A single-line if statement that uses the special rule for nested blocks also appears here
 
 while True:
     reply = input("Enter Text: ")
