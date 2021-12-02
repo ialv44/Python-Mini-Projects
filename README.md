@@ -1,2 +1,2 @@
-# Python-Mini-Projects
-A collection of short Mini Python Projects
+# Python Projects
+A collection of Easy and Advanced Level Python Projects
